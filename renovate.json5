@@ -1,0 +1,14 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "hostRules": [
+    {
+      "matchHost": "github.com",
+      "encrypted": {
+        "token": "drsMDVf6M2hTZCN+gQm/0Rpw"
+      }
+    }
+  ]
+}
